@@ -27,7 +27,7 @@ ___negrito e italico___
 
 [texto da imagem] (https://super.abril.com.br/wp-content/uploads/2024/02/2702-duna-site1.jpg?quality=70&strip=info&w=720&h=440&crop=1)
 
-![Texto da imagem](https://hermes.dio.me/articles/cover/7c31678a-f970-4a98-8cbf-85cf053d69e1.gif)
+![Texto da imagem](https://m.media-amazon.com/images/I/91MkOMqYoFL._UF1000,1000_QL80_.jpg)
 
 `system.out.println();`
 
