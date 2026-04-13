@@ -2,7 +2,8 @@
   
 
 
-<p align="center"><img src="https://media.tenor.com/sBfzJOT7RVEAAAAM/south-park-eric-cartman.gif"></p>
+<p align="center"><img src="https://camo.githubusercontent.com/49806b174470cb74653df70b14a9f64bd2dbc822513a755c122cd52314801c47/68747470733a2f2f6d656469612e74656e6f722e636f6d2f467061444d39396739425541414141432f636f75726167652d7468652d636f776172646c792d646f672d636f64696e672e676966" width= "250px"></p>
+
 
 😎 Olá, Me chamo Ially Schinke! <br>
 💬 Sou estudante do Senac-AL (Agreste - Arapiraca) e estou aprendendo sobre Programação 💻 <br>
