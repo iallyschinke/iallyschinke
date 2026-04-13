@@ -1,7 +1,8 @@
-  ## <p align="center">Sejam Bem-vindos ao Meu Mundo</p>
+  ## <center>Sejam Bem-vindos ao Meu Mundo</center>
   
 
-![Mario Codificando](https://media.tenor.com/sBfzJOT7RVEAAAAM/south-park-eric-cartman.gif)
+
+<p align="center"><img src="https://media.tenor.com/sBfzJOT7RVEAAAAM/south-park-eric-cartman.gif"></p>
 
 😎 Olá, Me chamo Ially Schinke! <br>
 💬 Sou estudante do Senac-AL (Agreste - Arapiraca) e estou aprendendo sobre Programação 💻 <br>
