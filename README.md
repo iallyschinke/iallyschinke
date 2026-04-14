@@ -22,7 +22,7 @@
 
 | Cursos | Certificados |
 |--------| -------------|
-|Visão Computacional | [Certificado](https://hermes.dio.me/certificates/BHD9B08L.pdf)
+|Visão Computacional | [Certificado](https://hermes.dio.me/certificates/NF81RZLL.pdf)
 
 
 
