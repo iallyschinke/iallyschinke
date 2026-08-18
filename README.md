@@ -6,7 +6,7 @@
 
 
 😎 Olá, Me chamo Ially Schinke! <br>
-💬 Sou estudante do Senac-AL (Agreste - Arapiraca) e estou aprendendo sobre Programação 💻 <br>
+💬 Ially Schinke | Desenvolvedor Full Stack em formação 💻 <br>
 📮 [Entre em contato comigo](iallyschinke@gmail.com)
 
 -------------
