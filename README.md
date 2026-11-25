@@ -38,8 +38,6 @@ Estudante do SENAC, desenvolvo aplicações web, exploro automação, acessibili
 
 ### Backend
 
-### Backend
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"width="44" height="44" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="44" height="44" />
@@ -47,8 +45,6 @@ Estudante do SENAC, desenvolvo aplicações web, exploro automação, acessibili
 </p>
 
 <sub>Node.js · Express · Fastify</sub>
-
-### Banco de dados
 
 ### Banco de dados
 
@@ -64,8 +60,6 @@ Estudante do SENAC, desenvolvo aplicações web, exploro automação, acessibili
 
 ### Integrações e estudos
 
-### Integrações e estudos
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="44" height="44" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width="44" height="44" />
@@ -73,8 +67,6 @@ Estudante do SENAC, desenvolvo aplicações web, exploro automação, acessibili
 </p>
 
 <sub>RabbitMQ · Apache Kafka · Swagger</sub>
-
-### Ferramentas
 
 ### Ferramentas
 
