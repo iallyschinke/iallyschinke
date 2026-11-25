@@ -15,16 +15,7 @@
 
 ## 01 / Sobre mim
 
-```bash
-$ whoami
-Ially Schinke — Desenvolvedor Full Stack em formação
-
-$ current_focus
-Desenvolvimento web | Visão computacional | Creative coding
-
-$ status
-Sempre aprendendo. Sempre criando.
-```
+<img src="./assets/terminal.svg" width="100%" alt="whoami: Ially Schinke — Desenvolvedor Full Stack em formação. current_focus: Desenvolvimento web | Visão computacional | Creative coding. status: Sempre aprendendo. Sempre criando." />
 
 Estudante do SENAC, desenvolvo aplicações web, exploro automação, acessibilidade e experiências digitais interativas. Gosto de combinar programação, arte e tecnologia para transformar ideias em projetos.
 
